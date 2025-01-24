@@ -1,12 +1,7 @@
-Hi
-    
-    _  ____  _____ _    
-   / |/  _ \/  __// \   
-   | || / \||  \  | |   
-/\_| || \_/||  /_ | |_/\
-\____/\____/\____\\____/
-                       
-
+ __   __  ___ _    
+|_ \ /__\| __| |   
+ _\ | \/ | _|| |_  
+/___|\__/|___|___| 
 <!--
 **JoelXD18/JoelXD18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
